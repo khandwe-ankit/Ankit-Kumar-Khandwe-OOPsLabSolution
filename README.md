@@ -18,9 +18,12 @@ f)	Create a separate CredentialService which will have generatePassword, generat
 
 
 Sample output
-
- 
+Please enter deparment from the following
+		1. Technical
+		2. Admin
+		3. Human Resource
+		4. Legal
 
 Dear Harshit your generated credentials are as follows
-Email        --->  harshitchoudary@tech.abc.com
+Email    ---> harshitchoudary@tech.abc.com
 Password ---> 181E@wFT
